@@ -114,7 +114,7 @@ http://127.0.0.1:8000
 
 ### Chat
 
-(Add Screenshot)
+(Coming soon)
 
 ---
 
